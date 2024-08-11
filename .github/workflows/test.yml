@@ -6,4 +6,3 @@ jobs:
   test:
     steps:  
       - uses: ./
-        with:
