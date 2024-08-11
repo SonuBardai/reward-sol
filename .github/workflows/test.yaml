@@ -1,0 +1,9 @@
+name: Test Custom Action
+
+on: [push]
+
+jobs:
+  test:
+    steps:  
+      - uses: ./
+        with:
