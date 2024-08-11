@@ -1,0 +1,6 @@
+name: 'reward-sol'
+description: 'Rewards first time contributors with SOL'
+
+runs:
+  using: 'node16'
+  main: 'src/index.ts'
